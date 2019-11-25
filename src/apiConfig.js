@@ -1,7 +1,7 @@
 let apiUrl
 const apiUrls = {
-  production: 'http://api.openweathermap.org/data/2.5/weather',
-  development: 'http://api.openweathermap.org/data/2.5/weather'
+  production: 'https://api.openweathermap.org/data/2.5/weather',
+  development: 'https://api.openweathermap.org/data/2.5/weather'
 }
 
 if (window.location.hostname === 'localhost') {
