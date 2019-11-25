@@ -1,6 +1,6 @@
 {
   "name": "react-template",
-  "homepage": "https://github.io/alexgdav/react-setup-practice-hooks",
+  "homepage": "https://github.io/alexgdav/react-setup-hooks-practice",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
