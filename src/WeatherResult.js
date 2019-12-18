@@ -2,8 +2,8 @@ import React from 'react'
 
 const WeatherResult = props => {
   // console.log('props.props is', props.props)
-  let weatherJSX =
-   props = props.props
+  let weatherJSX
+  props = props.props
   if (props) {
     const temperature = Math.floor((((props.main.temp - 273.15) * 1.8) + 32))
     weatherJSX = (
